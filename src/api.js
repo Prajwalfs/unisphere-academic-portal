@@ -1,5 +1,4 @@
 const BASE = "https://unisphere-backend-lzgy.onrender.com/api";
-
 async function request(resource, options = {}) {
 let response;
 
