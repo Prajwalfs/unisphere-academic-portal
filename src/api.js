@@ -1,4 +1,4 @@
-const BASE = "http://localhost:8080/api";
+const BASE = "https://unisphere-backend-lzgy.onrender.com";
 
 async function request(resource, options = {}) {
 let response;
